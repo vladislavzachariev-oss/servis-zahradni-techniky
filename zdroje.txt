@@ -1,0 +1,29 @@
+Fotky v této ukázce (všechny s volnou licencí pro komerční použití, bez nutnosti uvádět autora):
+
+foto/uvod-800|1600.webp  (1600×1068)
+  stránka: https://www.pexels.com/photo/a-person-cutting-grass-with-a-lawn-mower-6728925/
+  licence: Pexels License (https://www.pexels.com/license/)
+  úprava: rozmazány štítky
+  úprava pro tuto stránku: barevně tónováno do barev firmy
+
+foto/02-krovinorez-800|1600.webp  (1600×1066)
+  stránka: https://www.pexels.com/photo/close-up-of-grass-trimmer-on-green-lawn-29288279/
+  licence: Pexels License (https://www.pexels.com/license/)
+
+foto/03-strunova-sekacka-800|1600.webp  (1600×1066)
+  stránka: https://www.pexels.com/photo/person-using-lawn-mower-11364122/
+  licence: Pexels License (https://www.pexels.com/license/)
+
+foto/04-motor-sekacky-800|1600.webp  (1600×1066)
+  stránka: https://unsplash.com/photos/a-person-mowing-the-grass-with-a-lawn-mower-YhxOrHGrQQc
+  licence: Unsplash License (https://unsplash.com/license)
+  úprava: rozmazány štítky motoru
+
+foto/05-naradi-800|1600.webp  (1600×1201)
+  stránka: https://www.pexels.com/photo/gardening-tools-3971211/
+  licence: Pexels License (https://www.pexels.com/license/)
+  úprava: rozmazán štítek
+
+foto/06-lopaty-800|1600.webp  (1600×1106)
+  stránka: https://unsplash.com/photos/a-row-of-yellow-garden-tools-sitting-on-top-of-a-wooden-floor-9EH5AkClwZ0
+  licence: Unsplash License (https://unsplash.com/license)
